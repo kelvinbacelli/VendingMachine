@@ -1,0 +1,1 @@
+Developed a fully functional vending machine simulation in Python, implementing inventory management, sales tracking, and customer interaction features such as item purchasing, balance handling, and real-time sales statistics using object-oriented programming principles.
